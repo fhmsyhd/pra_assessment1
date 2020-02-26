@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="p_panjang">Persegi Panjang</string>
+    <string name="segitiga">Segitiga</string>
+    <string name="nama">Fahmi Imam Syuhada</string>
+    <string name="kelas">D3RPLA–42–03</string>
+    <string name="nim">676184097</string>
+    <string name="panjang">Panjang</string>
+    <string name="lebar">Lebar</string>
+    <string name="alas">Alas</string>
+    <string name="tinggi">Tinggi</string>
+    <string name="hitung">Hitung</string>
+    <string name="share">Share</string>
+    <string name="luas">Luas = </string>
+    <string name="keliling">Keliling = </string>
+    <string name="luas_value">20</string>
+    <string name="keliling_value">10</string>
+    <string name="about">About</string>
+    <string name="share_text">Panjang </string>
+    <string name="sharing_not_available">Sharing Not Available</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+</resources>
